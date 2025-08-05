@@ -42,4 +42,4 @@ For questions or issues please e‑mail jirina.jahnova@math.slu.cz
 
 If you use these worksheet, please cite:
 
-> J. Jahnova, On the characteristic form of $\mathfrak{g}$-valued zero-curvature representations, Mathematische Annalen, 2025 (in press).
+> J. Jahnova, On the characteristic form of $\mathfrak{g}$-valued zero-curvature representations, arXiv:2508.01224. 
