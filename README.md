@@ -28,7 +28,7 @@ This archive provides the Maple worksheet that reproduces all symbolic computati
 
 1. In Maple choose **Evaluate → Execute Worksheet** (or press `Ctrl + Shift + Enter`).
 2. The worksheet will run automatically; the process takes less than a minute on a typical workstation.
-3. Output blocks labelled **Example 1 (Section 4)** and **Example 2 (Section 4)** match the formulas printed in the manuscript.
+3. Output blocks labelled **Example 1** and **Example 2** match the formulas printed in the manuscript.
 
 ## Output files
 
