@@ -11,7 +11,7 @@ This archive provides the Maple worksheet that reproduces all symbolic computati
 
 ## Contents
 
-- **Ex1+Ex2.mw.txt** — Maple worksheet generating every intermediate and final expression used in Example 1 and Example 2.
+- **Ex1+Ex2.mw** — Maple worksheet generating every intermediate and final expression used in Example 1 and Example 2.
 
 ## Requirements
 
