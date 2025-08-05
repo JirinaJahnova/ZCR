@@ -11,7 +11,7 @@ This archive provides the Maple worksheet that reproduces all symbolic computati
 
 ## Contents
 
-- **Ex1+Ex2.mw.txt** — Maple worksheet generating every intermediate and final expression used in Example 1 and Example 2. Before running it, you have to delete the `.txt` suffix.
+- **Ex1+Ex2.mw.txt** — Maple worksheet generating every intermediate and final expression used in Example 1 and Example 2.
 
 ## Requirements
 
@@ -22,7 +22,7 @@ This archive provides the Maple worksheet that reproduces all symbolic computati
 
 1. Download `Jets.s` from the link above.
 2. Place `Jets.s` in the same folder as `Ex1+Ex2.mw`.
-3. Launch Maple and open `Ex1+Ex2.mw`. (Before running it, you have to delete the `.txt` suffix.)
+3. Launch Maple and open `Ex1+Ex2.mw`.
 
 ## How to reproduce the results
 
